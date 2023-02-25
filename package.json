@@ -1,0 +1,14 @@
+{
+  "name": "firebasedeleteusers",
+  "version": "1.0.0",
+  "description": "for deleting firebase users created during development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^11.5.0"
+  }
+}
