@@ -1,3 +1,10 @@
+Firebase Service Account Private Key Setup
+Description
+This README provides instructions on how to setup the Firebase service account private key to be used in a project. The Firebase service account private key is a JSON file that grants access to your Firebase project. This key is required if you want to authenticate your project in a server environment.
+
+Prerequisites
+A Firebase project
+Access to the Firebase console
 Steps
 Go to the Firebase console and select your project.
 Click on the gear icon on the left side of the screen to access the Project Settings.
